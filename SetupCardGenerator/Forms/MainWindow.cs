@@ -1280,6 +1280,7 @@ namespace SetupCardGenerator
             if (frm.ShowDialog() != DialogResult.OK)
             {
                 Msg.Information("Создание проекта отменено");
+                Project = null;
                 return;
             }
             Project.Author = frm.Author;
