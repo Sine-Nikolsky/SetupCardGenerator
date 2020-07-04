@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_UpgradeWizard_Files\UpgradeWizardLog.xslt"?>
+<log>
+  <event>Get project references.</event>
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\!Projects\SetupCardGenerator\SetupCardGenerator\SetupCardGenerator.csproj" />
+  <event action="Analyze" type="Success" name="AboutBox1.resx" path="E:\!Projects\SetupCardGenerator\SetupCardGenerator\AboutBox1.resx" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\!Projects\SetupCardGenerator\SetupCardGenerator\app.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\!Projects\SetupCardGenerator\SetupCardGenerator\app.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\!Projects\SetupCardGenerator\SetupCardGenerator\app.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\!Projects\SetupCardGenerator\SetupCardGenerator\app.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\!Projects\SetupCardGenerator\SetupCardGenerator\app.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\!Projects\SetupCardGenerator\SetupCardGenerator\app.config" />
+  <event action="Analyze" type="Success" name="app.config" path="E:\!Projects\SetupCardGenerator\SetupCardGenerator\app.config" />
+  <event action="Analyze" type="Success" name="FrmAbout.resx" path="E:\!Projects\SetupCardGenerator\SetupCardGenerator\Forms\FrmAbout.resx" />
+  <event action="Analyze" type="Success" name="FrmAddNote.resx" path="E:\!Projects\SetupCardGenerator\SetupCardGenerator\Forms\FrmAddNote.resx" />
+  <event action="Analyze" type="Success" name="FrmGetNum.resx" path="E:\!Projects\SetupCardGenerator\SetupCardGenerator\Forms\FrmGetNum.resx" />
+  <event action="Analyze" type="Success" name="FrmGetNumTool.resx" path="E:\!Projects\SetupCardGenerator\SetupCardGenerator\Forms\FrmGetNumTool.resx" />
+  <event action="Analyze" type="Success" name="FrmGetTool.resx" path="E:\!Projects\SetupCardGenerator\SetupCardGenerator\Forms\FrmGetTool.resx" />
+  <event action="Analyze" type="Success" name="FrmImageViewer.resx" path="E:\!Projects\SetupCardGenerator\SetupCardGenerator\Forms\FrmImageViewer.resx" />
+  <event action="Analyze" type="Success" name="FrmImputText.resx" path="E:\!Projects\SetupCardGenerator\SetupCardGenerator\Forms\FrmImputText.resx" />
+  <event action="Analyze" type="Success" name="FrmLoading.resx" path="E:\!Projects\SetupCardGenerator\SetupCardGenerator\Forms\FrmLoading.resx" />
+  <event action="Analyze" type="Success" name="MainWindow.resx" path="E:\!Projects\SetupCardGenerator\SetupCardGenerator\Forms\MainWindow.resx" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\!Projects\SetupCardGenerator\SetupCardGenerator\packages.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\!Projects\SetupCardGenerator\SetupCardGenerator\packages.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\!Projects\SetupCardGenerator\SetupCardGenerator\packages.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\!Projects\SetupCardGenerator\SetupCardGenerator\packages.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\!Projects\SetupCardGenerator\SetupCardGenerator\packages.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\!Projects\SetupCardGenerator\SetupCardGenerator\packages.config" />
+  <event action="Analyze" type="Success" name="packages.config" path="E:\!Projects\SetupCardGenerator\SetupCardGenerator\packages.config" />
+  <event action="Analyze" type="Success" name="Resources.resx" path="E:\!Projects\SetupCardGenerator\SetupCardGenerator\Properties\Resources.resx" />
+  <event action="Analyze" type="Success" name="SetupCardGenerator" path="E:\!Projects\SetupCardGenerator\SetupCardGenerator\SetupCardGenerator.csproj" />
+  <event action="Analyze" type="Success" name="SetupCardGenerator" path="E:\!Projects\SetupCardGenerator\SetupCardGenerator.sln" />
+</log>
