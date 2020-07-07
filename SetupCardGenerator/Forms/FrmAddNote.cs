@@ -67,7 +67,7 @@ namespace SetupCardGenerator.Forms
                 nmrCoeff.Value = Convert.ToDecimal(Note.Coeff);
                 nmrTime.Value = Convert.ToDecimal(Note.Time);
             }
-
+            CalculateTool(sender, e);
         }
 
         private void AddSpecText(object sender, EventArgs e)
